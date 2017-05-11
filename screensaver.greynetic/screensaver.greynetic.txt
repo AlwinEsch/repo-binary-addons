@@ -1,1 +1,1 @@
-screensaver.greynetic https://github.com/notspiff/screensaver.greynetic master
+screensaver.greynetic https://github.com/AlwinEsch/screensaver.greynetic auto_addon_xml

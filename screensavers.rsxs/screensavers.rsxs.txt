@@ -1,1 +1,1 @@
-screensavers.rsxs https://github.com/notspiff/screensavers.rsxs master
+screensavers.rsxs https://github.com/AlwinEsch/screensavers.rsxs auto_addon_xml

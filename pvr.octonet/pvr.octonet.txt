@@ -1,1 +1,1 @@
-pvr.octonet https://github.com/DigitalDevices/pvr.octonet 0.3.6
+pvr.octonet https://github.com/AlwinEsch/pvr.octonet auto_addon_xml

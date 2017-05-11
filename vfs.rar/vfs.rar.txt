@@ -1,1 +1,1 @@
-vfs.rar https://github.com/notspiff/vfs.rar master
+vfs.rar https://github.com/AlwinEsch/vfs.rar auto_addon_xml

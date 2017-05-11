@@ -1,1 +1,1 @@
-audiodecoder.stsound https://github.com/notspiff/audiodecoder.stsound master
+audiodecoder.stsound https://github.com/AlwinEsch/audiodecoder.stsound auto_addon_xml

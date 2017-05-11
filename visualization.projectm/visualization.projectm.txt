@@ -1,1 +1,1 @@
-visualization.projectm https://github.com/notspiff/visualization.projectm master
+visualization.projectm https://github.com/AlwinEsch/visualization.projectm auto_addon_xml

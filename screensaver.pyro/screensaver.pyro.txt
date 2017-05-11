@@ -1,1 +1,1 @@
-screensaver.pyro https://github.com/notspiff/screensaver.pyro master
+screensaver.pyro https://github.com/AlwinEsch/screensaver.pyro auto_addon_xml

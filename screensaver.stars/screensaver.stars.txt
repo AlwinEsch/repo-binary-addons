@@ -1,1 +1,1 @@
-screensaver.stars https://github.com/notspiff/screensaver.stars master
+screensaver.stars https://github.com/AlwinEsch/screensaver.stars auto_addon_xml

@@ -1,1 +1,1 @@
-screensaver.cpblobs https://github.com/notspiff/screensaver.cpblobs master
+screensaver.cpblobs https://github.com/AlwinEsch/screensaver.cpblobs auto_addon_xml

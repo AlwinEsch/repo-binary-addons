@@ -1,1 +1,1 @@
-audiodecoder.sidplay https://github.com/notspiff/audiodecoder.sidplay master
+audiodecoder.sidplay https://github.com/AlwinEsch/audiodecoder.sidplay auto_addon_xml

@@ -1,1 +1,1 @@
-visualization.vortex https://github.com/Montellese/visualization.vortex master
+visualization.vortex https://github.com/AlwinEsch/visualization.vortex auto_addon_xml

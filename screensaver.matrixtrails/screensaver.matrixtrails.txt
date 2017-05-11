@@ -1,1 +1,1 @@
-screensaver.matrixtrails https://github.com/notspiff/screensaver.matrixtrails master
+screensaver.matrixtrails https://github.com/AlwinEsch/screensaver.matrixtrails auto_addon_xml

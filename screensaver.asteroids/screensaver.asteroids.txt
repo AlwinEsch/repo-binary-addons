@@ -1,1 +1,1 @@
-screensaver.asteroids https://github.com/notspiff/screensaver.asteroids master
+screensaver.asteroids https://github.com/AlwinEsch/screensaver.asteroids auto_addon_xml
