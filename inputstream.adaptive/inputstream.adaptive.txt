@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/AlwinEsch/inputstream.adaptive Matrix-change
+inputstream.adaptive https://github.com/AlwinEsch/inputstream.adaptive Matrix-change-2
