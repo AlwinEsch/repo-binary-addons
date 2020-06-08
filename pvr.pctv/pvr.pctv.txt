@@ -1,1 +1,1 @@
-pvr.pctv https://github.com/kodi-pvr/pvr.pctv Matrix
+pvr.pctv https://github.com/AlwinEsch/pvr.pctv interface-change

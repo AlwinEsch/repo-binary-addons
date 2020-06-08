@@ -1,1 +1,1 @@
-pvr.argustv https://github.com/kodi-pvr/pvr.argustv Matrix
+pvr.argustv https://github.com/AlwinEsch/pvr.argustv interface-change
